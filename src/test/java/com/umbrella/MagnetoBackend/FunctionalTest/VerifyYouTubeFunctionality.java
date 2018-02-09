@@ -23,6 +23,8 @@ public class VerifyYouTubeFunctionality extends TestBase {
 		config = new Config(OR);
 		driver.get(config.getWebsite());
 		log.info("+++++++++++++++++++++Checking config MagnetoBackend++++++++++++++");
+		log.info("+++++++++++++++++++++Checking config MagnetoBackend++++++++++++++");
+
 	}
 
 }
